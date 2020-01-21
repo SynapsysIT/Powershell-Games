@@ -1,9 +1,13 @@
-# Powershell-Games
+# 💥💥  Powershell-Games 💥💥
 
 Nous allons tâcher de proposer régulièrement des petits défis autours de PowerShell.
 
 Vous retrouverez ici les différents repo correspondants contenant les propositions faite par certains membres de Synapsys.
 
-Chaque script fournit sera ensuite lu, commenté et noté simplement via un bloc de texte situé à la fin du code.
+Chaque script fournit sera ensuite lu, commenté et noté
 
-N'hésitez pas à regarder ce qui à été fait, cela permettra de voir les différentes façons de faire et de bien visualiser qu'il y en a rarement une seule (de bien faire ou non d'ailleurs ^__^)
+N'hésitez pas à regarder ce qui à été fait, vous constaterez qu'il n'y pas qu'une manière de bien faire (ou non.)
+
+## Les épreuves
+
+##### [Le Juste Prix](/001_LeJustePrix)
