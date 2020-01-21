@@ -18,6 +18,7 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 ## Participants
 
 ### :rhinoceros: [Bertrant](/001_LeJustePrix/BJ.ps1)
+
 | Efficacité du code | Propreté du code | Techniques | Gestion d'erreurs | Total  |
 | :----------------: | :--------------: | :--------: | :---------------: | :----: |
 |        1/2         |       1/2        |    2/2     |       0,5/2       | **6,5/10** |
