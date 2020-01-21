@@ -205,7 +205,7 @@ Julien
 - Propreté du code (Respect des normes / Syntaxe PowerShell)
     1.5 / 2 - Bonne indentation. Attention au nom de fonction qui ne respecte pas la syntaxe.
 - Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
-    2 / 2 - Encodage de l'image dans le code. Nice.
+    2 / 2 - Encodage de l'image dans le code. Nice =)
 - Propreté de l'interface lors de l'utilisation
     1 / 2 - Affichage écran simple, pas de clean de l'interface ou de saut de ligne ou encore de couleur, dommage
 - Contrôle d'erreurs et de saisies
@@ -221,7 +221,7 @@ Mathieu
 - Propreté du code (Respect des normes / Syntaxe PowerShell)
     1.5 / 2 - Bonne indentation. Attention au nom de fonction qui ne respecte pas la syntaxe.
 - Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
-    2 / 2 - Encodage de l'image dans le code. Nice.
+    2 / 2 - Encodage de l'image dans le code. Nice =)
 - Propreté de l'interface lors de l'utilisation
     1 / 2 - Affichage écran simple, pas de clean de l'interface ou de saut de ligne ou encore de couleur, dommage
 - Contrôle d'erreurs et de saisies

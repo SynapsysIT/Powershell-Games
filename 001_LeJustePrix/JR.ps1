@@ -1,11 +1,11 @@
 ﻿Param
 (
-     [string]$ChoixOrigine,
-     [int]$Number,
-     [int]$NumberMin,
-     [int]$NumberMax,
-     [int]$Chance,
-     $NumberCompared
+  [string]$ChoixOrigine,
+  [int]$Number,
+  [int]$NumberMin,
+  [int]$NumberMax,
+  [int]$Chance,
+  $NumberCompared
 )
 
 
@@ -18,99 +18,96 @@
 
 
 
-do{
+do {
 
 
-$ChoixOrigine = Read-Host " 1 - Joueur , 2 - Joueurs "
+  $ChoixOrigine = Read-Host " 1 - Joueur , 2 - Joueurs "
 
- switch($ChoixOrigine)
- {
-   1 {[int]$Number = Get-Random -Minimum 0 -Maximum 1000;break}
-   2 {         #le Joueur 1 doit bien choisir un nombre entier 
-     try {   
+  switch ($ChoixOrigine) {
+    1 { [int]$Number = Get-Random -Minimum 0 -Maximum 1000; break }
+    2 {
+      #le Joueur 1 doit bien choisir un nombre entier 
+      try {   
        
-      [int]$Number = Read-Host  " Joueur 1 - Merci de choisir un Prix entre 0 et 1000 " 
-      Clear-Host
-      " Le Joueur 1 à choisi son Prix "
+        [int]$Number = Read-Host  " Joueur 1 - Merci de choisir un Prix entre 0 et 1000 " 
+        Clear-Host
+        " Le Joueur 1 à choisi son Prix "
 
-         }
+      }
 
-     catch {" erreur sur le choix , recommence ";$ChoixOrigine = "0"}   #On Recommence le choix n'est pas validé
+      catch { " erreur sur le choix , recommence "; $ChoixOrigine = "0" }   #On Recommence le choix n'est pas validé
     
-     }  
-   Default {"Attention j'ai besoin de savoir : 1 - Joueur , 2 - Joueurs ";break}
-}
+    }  
+    Default { "Attention j'ai besoin de savoir : 1 - Joueur , 2 - Joueurs "; break }
+  }
 
 
-}while(($ChoixOrigine -ne 1) -and ($ChoixOrigine -ne 2))
+}while (($ChoixOrigine -ne 1) -and ($ChoixOrigine -ne 2))
 
 
 
 
 " Merci pour ce choix place au jeu !!!"
-  $NumberMin = 0
-  $NumberMax = 1000
-  $Chance = 10
+$NumberMin = 0
+$NumberMax = 1000
+$Chance = 10
     
 
-while(($Number -ne $NumberCompared) -and ($Chance -ne 0))
-{
+while (($Number -ne $NumberCompared) -and ($Chance -ne 0)) {
 
-  try {                # String -> Int  avec gestion de l'information String -> Int 
+  try {
+    # String -> Int  avec gestion de l'information String -> Int 
 
     [int]$NumberCompared = Read-Host "Joueur : Merci de me donner un Prix entre" $NumberMin " et " $NumberMax 
     
      
-    if(($NumberCompared -gt $NumberMax) -or ($NumberCompared -lt $NumberMin))  # Le choix doit rester dans l'intervalle de recherche !
+    if (($NumberCompared -gt $NumberMax) -or ($NumberCompared -lt $NumberMin))  # Le choix doit rester dans l'intervalle de recherche !
 
-     {  " Votre Juste Prix est entre " + $NumberMin + " et " + $NumberMax }
+    { " Votre Juste Prix est entre " + $NumberMin + " et " + $NumberMax }
  
     else {
           
-    $Chance--
+      $Chance--
 
   
-    if($NumberCompared -gt $Number)
-        {
+      if ($NumberCompared -gt $Number) {
     
-          "Le Prix est plus bas"
-          $NumberMax = $NumberCompared
-          "Il vous reste " + $Chance + " Chances "
+        "Le Prix est plus bas"
+        $NumberMax = $NumberCompared
+        "Il vous reste " + $Chance + " Chances "
     
-        }
-    
-     if($NumberCompared -lt $Number)
-        {
-    
-          "Le Prix est plus haut"
-          $NumberMin = $NumberCompared
-          "Il vous reste " + $Chance + " Chances "
-    
-        } 
-      
       }
-
-    }
+    
+      if ($NumberCompared -lt $Number) {
+    
+        "Le Prix est plus haut"
+        $NumberMin = $NumberCompared
+        "Il vous reste " + $Chance + " Chances "
+    
+      } 
       
-  catch {"erreur de saisie , Attention Je souhaite un nombre Entier "}
+    }
+
+  }
+      
+  catch { "erreur de saisie , Attention Je souhaite un nombre Entier " }
        
 
 
-    }
+}
 
- if($Number -ne $NumberCompared)
-    {
+if ($Number -ne $NumberCompared) {
 
-       "Vous avez perdu à cette partie !!!!! , Le juste prix était de " + $Number 
-    }
-   else 
-     {
+  "Vous avez perdu à cette partie !!!!! , Le juste prix était de " + $Number 
+}
+else {
 
-       "Bravo vous être le gagnant du juste Prix !!!!"
+  "Bravo vous être le gagnant du juste Prix !!!!"
 
-     }
+}
 
 <# 
+Mathieu
 - Efficacité du code (Action inutile ? Redondante ?)
     2 /2 - Script répondant parfaitement a la demande 
 - Propreté du code (Respect des normes / Syntaxe PowerShell)
@@ -126,6 +123,7 @@ while(($Number -ne $NumberCompared) -and ($Chance -ne 0))
 #>
 
 <# 
+Julien
 - Efficacité du code (Action inutile ? Redondante ?)
     2 /2 - Script répondant parfaitement a la demande 
 - Propreté du code (Respect des normes / Syntaxe PowerShell)

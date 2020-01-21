@@ -18,32 +18,32 @@ Write-Output "C'est gagne! Le juste prix est bien $justeprix !
 
 <# 
 Mathieu
-- Efficacité du code (Action inutile ? Redondante ?)
-    1 /2 - Ne répond pas complètement a la demande mais "fonctionnel"
-- Propreté du code (Respect des normes / Syntaxe PowerShell)
+- EfficacitÃ© du code (Action inutile ? Redondante ?)
+    1 /2 - Ne rÃ©pond pas complÃ©tement a la demande mais "fonctionnel"
+- PropretÃ© du code (Respect des normes / Syntaxe PowerShell)
     1 / 2 - Pas d'indentation mais noms de variables parlantes
-- Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
+- Utilisation simple ou avancÃ©e de PowerShell (Test ? Boucle ? ParamÃ©tre ? Fonction ?)
     0.5 / 2 - Trop basique
-- Propreté de l'interface lors de l'utilisation
-    0 / 2 - Affichage écran basique
-- Contrôle d'erreurs et de saisies
-    0.5 / 2 - Définition des variables mais ce n'est pas suffisant
+- PropretÃ© de l'interface lors de l'utilisation
+    0 / 2 - Affichage Ã©cran basique
+- ContrÃ©le d'erreurs et de saisies
+    0.5 / 2 - DÃ©finition des variables mais ce n'est pas suffisant
 
     ==> 3 / 10
 #>
 
 <#
 Julien
-- Efficacité du code (Action inutile ? Redondante ?)
-    1 /2 - Ne répond pas complètement a la demande mais "fonctionnel"
-- Propreté du code (Respect des normes / Syntaxe PowerShell)
+- EfficacitÃ© du code (Action inutile ? Redondante ?)
+    1 /2 - Ne rÃ©pond pas complÃ©tement a la demande mais "fonctionnel"
+- PropretÃ© du code (Respect des normes / Syntaxe PowerShell)
     1 / 2 - Pas d'indentation mais noms de variables parlantes
-- Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
+- Utilisation simple ou avancÃ©e de PowerShell (Test ? Boucle ? ParamÃ©tre ? Fonction ?)
     0.5 / 2 - Trop basique
-- Propreté de l'interface lors de l'utilisation
-    0 / 2 - Affichage écran basique
-- Contrôle d'erreurs et de saisies
-    0.5 / 2 - Définition des variables mais ce n'est pas suffisant
+- PropretÃ© de l'interface lors de l'utilisation
+    0 / 2 - Affichage Ã©cran basique
+- ContrÃ©le d'erreurs et de saisies
+    0.5 / 2 - DÃ©finition des variables mais ce n'est pas suffisant
 
     ==> 3 / 10
 #>

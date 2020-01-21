@@ -167,33 +167,33 @@ Main
 
 <#
 Mathieu
-- Efficacité du code (Action inutile ? Redondante ?)
-    2 /2 - Script répondant parfaitement a la demande et même plus ! 
-- Propreté du code (Respect des normes / Syntaxe PowerShell)
+- EfficacitÃ© du code (Action inutile ? Redondante ?)
+    1 /2 - Script rÃ©pondant a la demande, mais trop de fenÃªtre de validation.
+- PropretÃ© du code (Respect des normes / Syntaxe PowerShell)
     1.5 / 2 - Bonne indentation, nom de variaibles parlantes, dommage, utilisation d'un verb non officiel ;)
-- Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
-    2 / 2 - Fonctions intermédiaires très bien utilisées, les tests et les boucles sont fonctionnels ainsi que le check de l'environnement
-- Propreté de l'interface lors de l'utilisation
-    2 / 2 - Affichage écran clair avec mise en forme et utilisation de couleur pour remonter l'infos ! Nice 
-- Contrôle d'erreurs et de saisies
-    1.5 / 2 - erreur lors du contrôle de saisie pour jouer a 1 ou 2, dommage
+- Utilisation simple ou avancÃ©e de PowerShell (Test ? Boucle ? ParamÃ¨tre ? Fonction ?)
+    2 / 2 - Fonctions intermÃ©diaires trÃ¨s bien utilisÃ©es, les tests et les boucles sont fonctionnels ainsi que le check de l'environnement
+- PropretÃ© de l'interface lors de l'utilisation
+    2 / 2 - Affichage Ã©cran clair avec mise en forme et utilisation de couleur pour remonter l'infos ! Nice 
+- ContrÃ´le d'erreurs et de saisies
+    1 / 2 - Erreur lors du contrÃ´le de saisie pour jouer a 1 ou 2, et impossible de quitter le jeu en cours
 
-    9 / 10
+    7.5 / 10
 #>
 
 
 <# 
 Julien
-- Efficacité du code (Action inutile ? Redondante ?)
-    1/2 - Interface graphique mal exploitée, validation supplémentaire sur chaque proposition.
-- Propreté du code (Respect des normes / Syntaxe PowerShell)
-    1.0 / 2 - Bonne indentation, nom de variaibles parlantes, dommage, utilisation d'un verb non officiel ;) Attention, peut être un peu beaucoup de code "tout fait" ;)
-- Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
-    2 / 2 - Fonctions intermédiaires très bien utilisées, les tests et les boucles sont fonctionnels ainsi que le check de l'environnement
-- Propreté de l'interface lors de l'utilisation
-    2 / 2 - Affichage écran clair avec mise en forme et utilisation de couleur pour remonter l'infos ! Nice 
-- Contrôle d'erreurs et de saisies
-    0.5 / 2 - Bouton Annuler et Croix non gérée, impossible de quitter le jeu avant d'avoir perdu.
+- EfficacitÃ© du code (Action inutile ? Redondante ?)
+    1/2 - Interface graphique mal exploitÃ©e, validation supplÃ©mentaire sur chaque proposition.
+- PropretÃ© du code (Respect des normes / Syntaxe PowerShell)
+    1.0 / 2 - Bonne indentation, nom de variaibles parlantes, dommage, utilisation d'un verb non officiel ;) Attention, peut Ãªtre un peu beaucoup de code "tout fait" ;)
+- Utilisation simple ou avancÃ©e de PowerShell (Test ? Boucle ? ParamÃ¨tre ? Fonction ?)
+    2 / 2 - Fonctions intermÃ©diaires trÃ¨s bien utilisÃ©es, les tests et les boucles sont fonctionnels ainsi que le check de l'environnement
+- PropretÃ© de l'interface lors de l'utilisation
+    2 / 2 - Affichage Ã©cran clair avec mise en forme et utilisation de couleur pour remonter l'infos ! Nice 
+- ContrÃ´le d'erreurs et de saisies
+    0.5 / 2 - Bouton Annuler et Croix non gÃ©rÃ©e, impossible de quitter le jeu avant d'avoir perdu.
 
     6.5/ 10
 #>
