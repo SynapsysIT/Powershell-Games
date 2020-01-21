@@ -9,12 +9,12 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 
 ## Les points d'attentes
 
-### Efficacité du code (Action inutile ? Redondante ?)
+- Efficacité du code (Action inutile ? Redondante ?)
 
-### Propreté du code (Respect des normes / Syntaxe PowerShell)
+- Propreté du code (Respect des normes / Syntaxe PowerShell)
 
-### Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
+- Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
 
-### Propreté de l'interface lors de l'utilisation
+- Propreté de l'interface lors de l'utilisation
 
-### Contrôle d'erreurs et de saisies
+- Contrôle d'erreurs et de saisies
