@@ -1,7 +1,8 @@
 # Le juste prix !
 
-## La demande
-Le but du jeu : Il faut découvrir un nombre inconnu avec pour seule indication, à chaque proposition, "C'est plus" ou "C'est moins" (Dans un scope raisonnable, disons entre 0 et 1000)
+## Le but du jeu
+
+Il faut découvrir un nombre inconnu avec pour seule indication, à chaque proposition, "C'est plus" ou "C'est moins" (Dans un scope raisonnable, disons entre 0 et 1000)
 
 La demande initiale est donc celle-ci, créer un script vous permettant de jouer au Juste Prix (seul avec un nombre random ou à deux avec une saisie manuelle)
 
