@@ -1,5 +1,4 @@
 # Le juste prix !
-
 ## Le but du jeu
 
 Il faut découvrir un nombre inconnu avec pour seule indication, à chaque proposition, "C'est plus" ou "C'est moins" (Dans un scope raisonnable, disons entre 0 et 1000)
@@ -11,17 +10,23 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 ## Les points d'attentes
 
 - Efficacité du code (Action inutile ? Redondante ?)
-
 - Propreté du code (Respect des normes / Syntaxe PowerShell)
-
 - Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
-
 - Propreté de l'interface lors de l'utilisation
-
 - Contrôle d'erreurs et de saisies
 
 ## Participants
 
-### [Bertrand](/001_LeJustePrix/BJ.ps1) - 8/10
+### :rhinoceros: [Bertrant](/001_LeJustePrix/BJ.ps1)
+  | Critère            | Note      |
+  | ------------------ | --------- |
+  | Efficacité du code | 1/2       |
+  | Propreté du code   | 1/2       |
+  | Techniques         | 2/2       |
+  | Gestion d'erreurs  | 0.5/2     |
+  | **TOTAL**          | **6.5/10** |
+  
+
+
 ### [Cyril](/001_LeJustePrix/CP.ps1) - 9/10
 ### [Johan](/001_LeJustePrix/JR.ps1) - 9.5/10
