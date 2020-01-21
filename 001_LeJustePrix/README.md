@@ -19,11 +19,30 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 
 ### :rhinoceros: [Bertrant](/001_LeJustePrix/BJ.ps1)
 
-| Efficacité du code | Propreté du code | Techniques | Gestion d'erreurs | Total  |
-| :----------------: | :--------------: | :--------: | :---------------: | :----: |
-|        1/2         |       1/2        |    2/2     |       0,5/2       | **6,5/10** |
+| Efficacité du code | Propreté du code | Techniques | Gestion de l'interface | Gestion d'erreurs | Total  |
+| :----------------: | :--------------: | :--------: | :--------------------: | :---------------: | :----: |
+|        1/2         |       1/2        |    2/2     |           2/2          |       0,5/2       | **6,5/10** |
   
-
-
 ### [Cyril](/001_LeJustePrix/CP.ps1) - 9/10
+
+| Efficacité du code | Propreté du code | Techniques | Gestion de l'interface | Gestion d'erreurs | Total  |
+| :----------------: | :--------------: | :--------: | :--------------------: | :---------------: | :----: |
+|        2/2         |      1.5/2       |    2/2     |           1/2          |       1,5/2       | **8/10** |
+
+### [Jerome](/001_LeJustePrix/JP.ps1) - 9/10
+
+| Efficacité du code | Propreté du code | Techniques | Gestion de l'interface | Gestion d'erreurs | Total  |
+| :----------------: | :--------------: | :--------: | :--------------------: | :---------------: | :----: |
+|        1/2         |       1/2        |   0.5/2    |           0/2          |       0,5/2       | **3/10** |
+
 ### [Johan](/001_LeJustePrix/JR.ps1) - 9.5/10
+
+| Efficacité du code | Propreté du code | Techniques | Gestion de l'interface | Gestion d'erreurs | Total  |
+| :----------------: | :--------------: | :--------: | :--------------------: | :---------------: | :----: |
+|        2/2         |       2/2        |   1.5/2    |           1/2          |        2/2        | **8,5/10** |
+
+### [Romain](/001_LeJustePrix/RR.ps1) - 9/10
+
+| Efficacité du code | Propreté du code | Techniques | Gestion de l'interface | Gestion d'erreurs | Total  |
+| :----------------: | :--------------: | :--------: | :--------------------: | :---------------: | :----: |
+|        2/2         |      1.5/2       |    2/2     |           2/2          |        2/2        | **9,5/10** |
