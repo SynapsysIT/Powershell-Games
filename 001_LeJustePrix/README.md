@@ -22,4 +22,4 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 
 ## Participants
 
-### [Bertrand] (BJ.ps1)
+### [Bertrand](/BJ.ps1)
