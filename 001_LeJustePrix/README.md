@@ -22,29 +22,6 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 
 ## Participants
 
-### [Bertrand](/001_LeJustePrix/BJ.ps1)
-
-#### Contrôle d'erreurs et de saisies
-
-    2 /2 - Script répondant parfaitement a la demande et même plus ! 
-    1/2 - Interface graphique mal exploitée, validation supplémentaire sur chaque proposition.
-
-#### Propreté du code
-
-    1.5 / 2 - Bonne indentation, nom de variaibles parlantes, dommage, utilisation d'un verb non officiel ;)
-    1.0 / 2 - Bonne indentation, nom de variaibles parlantes, dommage, utilisation d'un verb non officiel ;) Attention, peut être un peu beaucoup de code "tout fait" ;)
-
-#### Utilisation simple ou avancée de PowerShell
-    
-	2 / 2 - Fonctions intermédiaires très bien utilisées, les tests et les boucles sont fonctionnels ainsi que le check de l'environnement
-    2 / 2 - Fonctions intermédiaires très bien utilisées, les tests et les boucles sont fonctionnels ainsi que le check de l'environnement
-
-#### Propreté de l'interface lors de l'utilisation
-
-    2 / 2 - Affichage écran clair avec mise en forme et utilisation de couleur pour remonter l'infos ! Nice 
-    2 / 2 - Affichage écran clair avec mise en forme et utilisation de couleur pour remonter l'infos ! Nice 
-
-#### Contrôle d'erreurs et de saisies
-
-    1.5 / 2 - erreur lors du contrôle de saisie pour jouer a 1 ou 2, dommage
-	0.5 / 2 - Bouton Annuler et Croix non gérée, impossible de quitter le jeu avant d'avoir perdu.
+### [Bertrand](/001_LeJustePrix/BJ.ps1) - 8/10
+### [Cyril](/001_LeJustePrix/CP.ps1) - 9/10
+### [Johan](/001_LeJustePrix/JR.ps1) - 9.5/10
