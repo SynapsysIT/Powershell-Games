@@ -19,3 +19,7 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 - Propreté de l'interface lors de l'utilisation
 
 - Contrôle d'erreurs et de saisies
+
+## Participants
+
+### [Bertrand] (BJ.ps1)
