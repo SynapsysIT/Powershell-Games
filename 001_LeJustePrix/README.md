@@ -22,4 +22,4 @@ Demandes supplémentaires : Il faut que le nombre mystère soit découvert en 10
 
 ## Participants
 
-### [Bertrand](/BJ.ps1)
+### [Bertrand](/001_LeJustePrix/BJ.ps1)
