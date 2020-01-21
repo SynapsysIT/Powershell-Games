@@ -6,4 +6,4 @@ Vous retrouverez ici les différents repo correspondants contenant les propositi
 
 Chaque script fournit sera ensuite lu, commenté et noté simplement via un bloc de texte situé à la fin du code.
 
-N'hésitez pas à regarder ce qui à été fait afin de voir les différentes point de vue et d'approche et de vous en inspirer si nécessaire ;)
+N'hésitez pas à regarder ce qui à été fait afin de voir les différentes point de vue et approche afin de vous en inspirer si nécessaire ;)
