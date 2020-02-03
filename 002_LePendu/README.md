@@ -5,15 +5,10 @@ Il consiste à trouver un mot en devinant quelles sont les lettres qui le compos
 
 La demande initiale est donc celle-ci, créer un script vous permettant de jouer au jeu du pendu.
 
-Plusieurs possibilité quant à la définition du mot à découvrir :
-- Saisit manuelle du mot
-- Intérrogation d'un dictionnaire de mot et donc selection aléatoire de celui-ci
+Deux spécificités :
 
-Quelques spécifités :
 - Le mot doit faire au minimum 8 lettres
-- Si le mot contient un caracètre spécial, celui-ci doit être remplacé (ou accepter) si l'on saisit le caractère classique correspondant (a = àâã / e = éèê / c = ç / ... )
-- Ou bien vous excluez directement les mots contenant des caractères spéciaux ;)
-- Et vu qu'on est sympa, on vous donne même un lien vers un "dictionnaire online" : https://raw.githubusercontent.com/words/an-array-of-french-words/master/mots.json
+- Le mot doit être choisit de façon alétatoire dans un "dictionnaire online". Et vu qu'on est sympa, on vous donne même le lien  https://raw.githubusercontent.com/words/an-array-of-french-words/master/mots.json
 
 ## Les points d'attentes
 
