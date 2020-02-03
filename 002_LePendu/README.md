@@ -11,7 +11,7 @@ Plusieurs possibilité quant à la définition du mot à découvrir :
 
 Quelques spécifités :
 - Le mot doit faire au minimum 8 lettres
-- Si le mot contient un caracètre spécial, celui-ci doit être remplacé (ou accepter) que l'on saississe le caractère classique correspondant (a = à / e = éèê / c = ç / ... )
+- Si le mot contient un caracètre spécial, celui-ci doit être remplacé (ou accepter) si l'on saisit le caractère classique correspondant (a = àâã / e = éèê / c = ç / ... )
 - Ou bien vous excluez directement les mots contenant des caractères spéciaux ;)
 - Et vu qu'on est sympa, on vous donne même un lien vers un "dictionnaire online" : https://raw.githubusercontent.com/words/an-array-of-french-words/master/mots.json
 
@@ -22,5 +22,3 @@ Quelques spécifités :
 - Utilisation simple ou avancée de PowerShell (Test ? Boucle ? Paramètre ? Fonction ?)
 - Propreté de l'interface lors de l'utilisation
 - Contrôle d'erreurs et de saisies
-
-## Participants
