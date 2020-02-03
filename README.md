@@ -1,4 +1,4 @@
-# 💥💥  Powershell-Games 💥💥
+# 💥💥  Bienvenu au 'Shell-Games  💥💥
 
 Nous allons tâcher de proposer régulièrement des petits défis autours de PowerShell.
 
