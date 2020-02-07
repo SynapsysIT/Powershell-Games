@@ -12,6 +12,7 @@ histoire
 impression
 journée
 lumière
+dauphin
 manière
 musique
 oreille
